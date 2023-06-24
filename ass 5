@@ -1,0 +1,30 @@
+package assignment;
+
+public class student {
+	
+	
+	string studentName="surya";
+	string rollno="STI001";
+	string collegename="Anna university";
+	int marks=90;
+	float cgp=89.5f;
+	
+}
+
+package assignment;
+
+public class Report{
+
+	public static void main(String[] args) 
+	
+	{
+		student repo=new student();
+		System.out.println(repo.student);
+		System.out.println(repo.collegename);
+		System.out.println(repo.rollno);
+		System.out.println(repo.marks);
+		System.out.println(repo.cgp);
+
+	}
+
+}
