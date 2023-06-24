@@ -1,0 +1,22 @@
+package week1.day1;
+
+	public class Cars{
+		
+		public void soundhorn()
+		
+		{
+			System.out.println("sound Horn");
+			
+		}
+		
+		public void applybrake()
+		
+		{
+			System.out.println("applied break");
+		}
+		
+				
+	}
+
+		
+	 
